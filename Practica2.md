@@ -31,4 +31,6 @@ Esta nueva tecnologia da cabida a que sea una opcion muy optima en sistemas de a
 <img src="https://github.com/Eric212/SSII/blob/master/m.principal.png"/>
 - He elegido este modulo M.2 de 512 GB porque los programas de modelado 3D necesitan una alta tasa de lectura y escritura, este modulo cuenta con una velocidad de escritura de hasta 2.700 MB/s y de lectura de hasta 3.500 MB/s.
 <img src="https://github.com/Eric212/SSII/blob/master/m.secundaria.png"/>
-- He elegido este disco duro de 4 TB por su alta capacidad, 
+- He elegido este disco duro de 4 TB por su alta capacidad.
+<img src="https://github.com/Eric212/SSII/blob/master/grafica.png"/>
+- He elegido esta grafica 
