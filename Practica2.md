@@ -27,4 +27,8 @@ Esta nueva tecnologia da cabida a que sea una opcion muy optima en sistemas de a
 <img src="https://github.com/Eric212/SSII/blob/master/placa.png"/>
 - He elegido esta placa por su capacidad de dos unidades de almacenamiento M.2, por su compatibilidad con memorias RAM de alta frecuencia.
 <img src="https://github.com/Eric212/SSII/blob/master/liquida.png"/>
-- He elegido esta refrigeracion liquida, puesto que mantiene unas temperatura mas constantes y puede ser mas eficiente que una refrigeracion por aire, y el precio es muy equivalente al de una buena refrigeracion por aire
+- He elegido esta refrigeracion liquida, puesto que mantiene unas temperatura mas constantes y puede ser mas eficiente que una refrigeracion por aire, y el precio es muy equivalente al de una buena refrigeracion por aire.
+<img src="https://github.com/Eric212/SSII/blob/master/m.primaria.png"/>
+- He elegido este modulo M.2 de 512 GB porque los programas de modelado 3D necesitan una alta tasa de lectura y escritura, este modulo cuenta con una velocidad de escritura de hasta 2.700 MB/s y de lectura de hasta 3.500 MB/s.
+<img src="https://github.com/Eric212/SSII/blob/master/m.secundaria.png"/>
+- He elegido este disco duro de 4 TB por su alta capacidad, 
