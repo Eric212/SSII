@@ -23,4 +23,7 @@ Esta nueva tecnologia da cabida a que sea una opcion muy optima en sistemas de a
 <img src="https://github.com/Eric212/SSII/blob/master/cpu.png"/>
 - He elegido este procesador por sus 8 nucleos y 16 hilos los cuales ayudaran a balancear la carga de trabajo del multitasking, y por su alta frecuencia de 3.9GHz con un turbo de 4.5GHz pues AutoCAD recomienda unos 3GHz o mas, y tenemos que preveer que ademas del consumo de los programas hara falta un minimo para el funcionamiento del sistema.
 <img src="https://github.com/Eric212/SSII/blob/master/ram.png"/>
-- He elegido esta RAM, pues para modelado 3D es necesario una gran cantidad de RAM, y con 32GB el sistema tendra suficiente para todos los programas ademas del sistema en si, ademas de sus 3200Mhz para poder manejar datos a altas velocidades y por su latencia CL14 que es la mas baja posible en modulos de esta genereacion y frecuencia
+- He elegido esta RAM, pues para modelado 3D es necesario una gran cantidad de RAM, y con 32GB el sistema tendra suficiente para todos los programas ademas del sistema en si, ademas de sus 3200Mhz para poder manejar datos a altas velocidades y por su latencia CL14 que nos permite aumentar el rendimiento pues el tiempo de acceso a los datos menor.
+<img src="https://github.com/Eric212/SSII/blob/master/placa.png"/>
+- He elegido esta placa por su capacidad de dos unidades de almacenamiento M.2, por su compatibilidad con memorias RAM de alta frecuencia.
+<img src="https://github.com/Eric212/SSII/blob/master/liquida.png"/>
