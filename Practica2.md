@@ -33,4 +33,4 @@ Esta nueva tecnologia da cabida a que sea una opcion muy optima en sistemas de a
 <img src="https://github.com/Eric212/SSII/blob/master/m.secundaria.png"/>
 - He elegido este disco duro de 4 TB por su alta capacidad.
 <img src="https://github.com/Eric212/SSII/blob/master/grafica.png"/>
-- He elegido esta grafica 
+- He elegido esta grafica porque tiene suficiente potencia para mover graficos 4k, y con 6 de memoria GDRR6 suficiente para todos los programas y el sistema operativo, ademas de un acho de banda de 336 Gb/s mas que suficiente para poder trabajar con AutoCAD.
