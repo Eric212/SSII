@@ -2,7 +2,7 @@
 ## Práctica 2
 ### Fecha máxima de entrega:GB 21/10/2020
 ##### 1.Define las diferencias entre estructura funcional y estructura física de un computador.
-La diferencia entre estructura funcional y estructura fisica, es que la estructura funcional es la definicion de como el ordenador consigue los datos y los procesa mientras que estructura fisica define todo los componentes fisicos que integran un ordenador
+La diferencia entre estructura funcional y estructura fisica, es que la estructura funcional es la definición de como el ordenador consigue los datos y los procesa mientras que estructura fisica define todo los componentes fisicos que integran un ordenador
 ##### 2.¿Para qué sirve un driver o controlador? Pon tres ejemplos.
 Un driver o controlador, es un programa que hace de interprete entre los perifericos y el sistema operativo.
 ##### 3.¿Qué  es  la  UEFI?  ¿Cuál  crees  que  fue  el  motivo  que  propició  su  aparición?  ¿Qué ventajas e inconvenientes aporta frente a la BIOS? 
@@ -37,5 +37,7 @@ Esta nueva tecnologia da cabida a que sea una opcion muy optima en sistemas de a
 <img src="https://github.com/Eric212/SSII/blob/master/10GB.png"/>
 <img src="https://github.com/Eric212/SSII/blob/master/caja.png"/>
 - He elegido esta caja porque dispone de filtro antipolvo, incluye usb 3.0, y dispone de espacio para ampliar almacenamiento.
+<img src="https://github.com/Eric212/SSII/blob/master/caja.png"/>
+- He cogido esta fuente de alimentación porque todo el equipo necesita alrededor de 356 W de potencia, por esa razón he cogido una fuente de alimentación con mas portencia para evitar problemas por falta de suministro elecrtico, pues aveces los equipos pueden tener picos por encima de su consumo habitual y si la fuente es muy justa puede fallar, y en caso de no fallar siempre estaria estresada y tendria un tiempo de vida inferior por estar siemrpe forzandola al máximo
 
-### Total 1525,49€
+### Total 1.604,77€
