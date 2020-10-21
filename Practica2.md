@@ -37,7 +37,7 @@ Esta nueva tecnologia da cabida a que sea una opcion muy optima en sistemas de a
 <img src="https://github.com/Eric212/SSII/blob/master/10GB.png"/>
 <img src="https://github.com/Eric212/SSII/blob/master/caja.png"/>
 - He elegido esta caja porque dispone de filtro antipolvo, incluye usb 3.0, y dispone de espacio para ampliar almacenamiento.
-<img src="https://github.com/Eric212/SSII/blob/master/caja.png"/>
+<img src="https://github.com/Eric212/SSII/blob/master/fuente.png"/>
 - He cogido esta fuente de alimentación porque todo el equipo necesita alrededor de 356 W de potencia, por esa razón he cogido una fuente de alimentación con mas portencia para evitar problemas por falta de suministro elecrtico, pues aveces los equipos pueden tener picos por encima de su consumo habitual y si la fuente es muy justa puede fallar, y en caso de no fallar siempre estaria estresada y tendria un tiempo de vida inferior por estar siemrpe forzandola al máximo
 
 ### Total 1.604,77€
