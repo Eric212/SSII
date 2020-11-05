@@ -5,7 +5,6 @@ Es la simbiosis de todos los elementos físicos y lógicos para realizar calculo
 ##### 2.Realiza un esquema gráfico de la arquitectura Von Neumann identificando y justificando los posibles cuellos de botella
 <img src="https://wizbyte.files.wordpress.com/2014/07/vonneumann2.jpg"/>
 El canal de transmisión de los datos compartido entre CPU y memoria genera un cuello de botella de von Neumann, un rendimiento limitado (tasa de transferencia de datos) entre la CPU y la memoria en comparación con la cantidad de memoria.
-
 ##### 3.Indica los pasos que sigue el ordenador para realizar una suma describiendo la función de cada componente de la arquitectura Von Neumann.
 Primero introduciriamos los operandos por el periferico (teclado), la unidad E/S interpretaria las pulsaciones y las transformaria en datos que la unidad de control pudiera entender.
 Estos datos se alamcenaran en la memoria principal, estos datos contendran tanto los datos como las instrucciones.
