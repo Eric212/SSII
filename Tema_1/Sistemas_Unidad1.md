@@ -2,7 +2,7 @@
 ### 1.Accede a la página web del fabricante MSI y localiza la placa base MSI X220 RAIDER (https://es.msi.com/Motherboard/X299-RAIDER/Specification).
 ### Realiza los siguientes ejercicios:
 - Descarga una imagen de la placa base y otra de los conectores externos del panel trasero.Señala aquellos elementos estudiados, indicando su nombre técnico.
-![Placa base](../Placa_Base.png)
+![Placa base](../Placa_Base1.png)
 - ¿Qué factor de forma tiene la placa base?
 - Procesador. ¿Qué tipo de socket de procesador tiene? ¿Con qué procesadores es compatible la placa base?
 - Memoria RAM. ¿Qué módulos de memoria soporta? ¿Qué cantidad máxima de memoriaRAM se puede instalar? ¿Dispone de tecnología multicanal?
