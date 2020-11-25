@@ -60,8 +60,18 @@
 | Velocidades | 10 Gb/s (1.2 GB/s) | 16 Gb/s (2 GB/s) | 40 Gb/s (5 GB/s) |
 ### 3.Descarga la aplicación CPU-Z de la página web oficial: https://www.cpuid.com/downloads/cpu-z/cpu-z_1.94-en.exe.Instálala y ejecútala. Anota la información del equipo
 - Procesador: nombre comercial, número de núcleos, frecuencias, tecnología de integración, voltaje, conjunto de instrucciones, caché y número de hilos
+
+
 ![cpu-x](../Cpu-X1.png)
+
+
 - Placa base y chipset: fabricante y modelo de placa base, tipo de chipset, fabricante y modelo de BIOS
+
+
 ![cpu-x](../Cpu-X1.png)
+
+
 - Memoria: tipos, tamaños, latencias y canales•Información en tiempo real del estado de todos los componentes: frecuencias, voltajes y temperaturas (ver en el BIOS)
+
+
 ![cpu-x](../Cpu-X1.png)
