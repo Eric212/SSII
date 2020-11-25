@@ -68,10 +68,10 @@
 - Placa base y chipset: fabricante y modelo de placa base, tipo de chipset, fabricante y modelo de BIOS
 
 
-![cpu-x](../Cpu-X1.png)
+![cpu-x](../Cpu-X2.png)
 
 
 - Memoria: tipos, tamaños, latencias y canales•Información en tiempo real del estado de todos los componentes: frecuencias, voltajes y temperaturas (ver en el BIOS)
 
 
-![cpu-x](../Cpu-X1.png)
+![cpu-x](../Cpu-X3.png)
