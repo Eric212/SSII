@@ -74,7 +74,7 @@
 
 Vuelve a conectar los cables del equipo y comprueba que se ha reseteado la BIOS RAM-CMOS a sus valores originales de fábrica, volviendo a entrar en la BIOS Setup Utility. Modifica los valores de la BIOS RAM-CMOS a los valores previos al reseteo.
 
-![Bios](Bios2.webp)
+![Bios](bios2.webp)
     
 ### 5. Busca al menos tres ejemplos para cada tipo de software
 ### 6. Vamos a analizar la segunda parte del proceso POST de nuestro equipo. Para ello, cuando aparezca una imagen como la de la figura 1.34 y, antes de que pase a la siguiente pantalla, analiza todas las líneas. Para detener la imagen y el proceso de arranque del equipo, pulsa la tecla ‘Pausa’ en el teclado
@@ -92,7 +92,7 @@ Explica cada una de las líneas.
 Accede al BIOS Setup Utility:
  Obtén información de la temperatura del procesador, su voltaje y la velocidad de los ventiladores
 
-![Bios](Bios1.webp)
+![Bios](bios1.webp)
 
 - Anota el orden de los medios de arranque del sistema operativo. Guarda los cambios y reinicia el sistema. ¿Qué ocurre? Restáuralo a su orden anterior.
     -  Al cambiar el orden de arranque no inicia el sistema porque no encuentra la particion de activa de sistema, para cargar el sistema operativo
