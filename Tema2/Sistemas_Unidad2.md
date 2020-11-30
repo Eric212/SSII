@@ -94,7 +94,8 @@ e)La forma de ofrecer servicios
 
 #### 7. Explica el esquema de particiones predeterminado tras la instalación de Microsoft Windows del ejercicio 4. Para ello, ejecuta el 'Administrador de discos', detallando el contenido de cada partición
 
-![windows](../EjercicioTema2/Windows/windows19.png)
+
+![windows](../EjercicioTema2/Windows/windows17.png)
 
 #### 8. Conociendo los archivos de configuración del gestor de arranque de GNU/Linux (GRUB 2)y a partir del ejercicio 5, modifica el gestor de arranque de manera que aparezca un menú gráfico que ofrezca entre la carga de Ubuntu Desktop y el programa de testeo de memoria memtest86+.bin con una imagen personalizada de fondo y help,ubuntu.com/community/Grub2 como apoyo.
 
