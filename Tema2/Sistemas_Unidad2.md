@@ -94,7 +94,9 @@ e)La forma de ofrecer servicios
 
 #### 7. Explica el esquema de particiones predeterminado tras la instalación de Microsoft Windows del ejercicio 4. Para ello, ejecuta el 'Administrador de discos', detallando el contenido de cada partición
 
-
+- La primera particion sirve para guardar el gestor de arranque, y la configuracion de inico de windows, ademas con los datos de la misma se utilizan como referencia para cuando bloqueas un disco con la tecnologia Bitlocker
+- La segunda particion sirve para almacenar los datos del sistema y los programas principales
+- La tercera particion sirve para poder restaurar el sistema a valores de fabrica (como si estuviera acabado de instalar el sistema operativo)
 ![windows](../EjercicioTema2/Windows/windows17.png)
 
 #### 8. Conociendo los archivos de configuración del gestor de arranque de GNU/Linux (GRUB 2)y a partir del ejercicio 5, modifica el gestor de arranque de manera que aparezca un menú gráfico que ofrezca entre la carga de Ubuntu Desktop y el programa de testeo de memoria memtest86+.bin con una imagen personalizada de fondo y help,ubuntu.com/community/Grub2 como apoyo.
