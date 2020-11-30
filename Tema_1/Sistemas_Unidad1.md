@@ -2,8 +2,8 @@
 ### 1. Accede a la página web del fabricante MSI y localiza la placa base MSI X220 RAIDER (https://es.msi.com/Motherboard/X299-RAIDER/Specification).
 ### Realiza los siguientes ejercicios:
 - Descarga una imagen de la placa base y otra de los conectores externos del panel trasero.Señala aquellos elementos estudiados, indicando su nombre técnico.
-![Placa base1](../Placa_Base1.png)
-![Placa base2](../Placa_Base2.png)
+![Placa base1](../EjercicioTema1/Placa_Base1.png)
+![Placa base2](../EjercicioTema1/Placa_Base2.png)
 - ¿Qué factor de forma tiene la placa base?
   - Tiene un formato ATX 
 - Procesador.
@@ -21,7 +21,7 @@
 - Qué chipset monta la placa base?
   - Intel® X299 Chipset
 - Indica las características del mismo mediante un diagrama o describiéndolo
-![chipset](../chipset.png)
+![chipset](../EjercicioTema1/chipset.png)
 - Capacidad de expansión. ¿De cuántas ranuras de expansión dispone y de qué tipo?
   - Dispone de 5 ranuras de expansion PCIexpress
   - 4 ranuras de PCIexpress x16
@@ -64,21 +64,21 @@
 - Memoria: tipos, tamaños, latencias y canales•Información en tiempo real del estado de todos los componentes: frecuencias, voltajes y temperaturas (ver en el BIOS)
 
 
-![cpu-x](../Cpu-X1.png)
-![cpu-x](../Cpu-X2.png)
-![cpu-x](../Cpu-X3.png)
-![cpu-x](../Cpu-X4.png)
+![cpu-x](../EjercicioTema1/Cpu-X1.png)
+![cpu-x](../EjercicioTema1/Cpu-X2.png)
+![cpu-x](../EjercicioTema1/Cpu-X3.png)
+![cpu-x](../EjercicioTema1/Cpu-X4.png)
 
 
 ### 4. Sobre el mismo equipo y una vez recogida la información del punto anterior, descarga el manual de la placa base de la página oficial del fabricante y localiza los pines de reseteo de la memoria BIOS RAM-CMOS. Accede al BIOS Setup Utility y anota la prioridad del orden de arranque de los dispositivos de almacenamiento secundario. Cambia dichos parámetros a otros cualquiera. Apaga el equipo. Desconecta los cables de alimentación del equipo y de los dispositivos periféricos. Abre el equipo y resetea la BIOS RAM-CMOS.
 
 
-![Pines](../Pines.png)
+![Pines](../EjercicioTema1/Pines.png)
 
 
 Vuelve a conectar los cables del equipo y comprueba que se ha reseteado la BIOS RAM-CMOS a sus valores originales de fábrica, volviendo a entrar en la BIOS Setup Utility. Modifica los valores de la BIOS RAM-CMOS a los valores previos al reseteo.
 
-![Bios](../bios2.webp)
+![Bios](../EjercicioTema1/bios2.webp)
     
 ### 5. Busca al menos tres ejemplos para cada tipo de software
 ### 6. Vamos a analizar la segunda parte del proceso POST de nuestro equipo. Para ello, cuando aparezca una imagen como la de la figura 1.34 y, antes de que pase a la siguiente pantalla, analiza todas las líneas. Para detener la imagen y el proceso de arranque del equipo, pulsa la tecla ‘Pausa’ en el teclado
@@ -96,7 +96,7 @@ Explica cada una de las líneas.
 Accede al BIOS Setup Utility:
  Obtén información de la temperatura del procesador, su voltaje y la velocidad de los ventiladores
 
-![Bios](../bios1.webp)
+![Bios](../EjercicioTema1/bios1.webp)
 
 - Anota el orden de los medios de arranque del sistema operativo. Guarda los cambios y reinicia el sistema. ¿Qué ocurre? Restáuralo a su orden anterior.
     -  Al cambiar el orden de arranque no inicia el sistema porque no encuentra la particion de activa de sistema, para cargar el sistema operativo
@@ -125,21 +125,21 @@ Accede al BIOS Setup Utility:
 ◦Crea una instantánea de cada una con el nombre de MV Limpia (Ubuntu / Windows)
 ◦Accede a la configuración de Windows MV y añade un segundo disco duro reservado dinámicamente de 200 Gb. En caso de duda, consulta la ayuda de VirtualBox.
 
-![VirtualBox](../VirtualBox1.png)
-![VirtualBox](../VirtualBox2.png)
-![VirtualBox](../VirtualBox3.png)
-![VirtualBox](../VirtualBox4.png)
-![VirtualBox](../VirtualBox5.png)
-![VirtualBox](../VirtualBox6.png)
-![VirtualBox](../VirtualBox7.png)
-![VirtualBox](../VirtualBox8.png)
-![VirtualBox](../VirtualBox9.png)
-![VirtualBox](../VirtualBox10.png)
-![VirtualBox](../VirtualBox11.png)
+![VirtualBox](../EjercicioTema1/VirtualBox1.png)
+![VirtualBox](../EjercicioTema1/VirtualBox2.png)
+![VirtualBox](../EjercicioTema1/VirtualBox3.png)
+![VirtualBox](../EjercicioTema1/VirtualBox4.png)
+![VirtualBox](../EjercicioTema1/VirtualBox5.png)
+![VirtualBox](../EjercicioTema1/VirtualBox6.png)
+![VirtualBox](../EjercicioTema1/VirtualBox7.png)
+![VirtualBox](../EjercicioTema1/VirtualBox8.png)
+![VirtualBox](../EjercicioTema1/VirtualBox9.png)
+![VirtualBox](../EjercicioTema1/VirtualBox10.png)
+![VirtualBox](../EjercicioTema1/VirtualBox11.png)
 
 
 10.Descarga una versión de prueba de Vmware WorkStation Pro desde https://www.vmware.com/es/products/workstation-pro.html. Instala la aplicación y crea una máquina virtual de prueba.
-![VM-Ware](../VM-Ware.png)
+![VM-Ware](../EjercicioTema1/VM-Ware.png)
 
 
 
