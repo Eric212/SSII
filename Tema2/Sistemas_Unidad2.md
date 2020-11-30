@@ -90,7 +90,6 @@ e)La forma de ofrecer servicios
 #### 6. A través de la aplicación NTLite, crea una instalación desatendida donde se añada la característica Internet Information Services. Comprueba la correcta generación del .iso en una máquina virtual.
 
 ![NTLite](../EjercicioTema2/NTlite.png)
-![NTLite](../EjercicioTema2/NTlite1.png)
 ![NTLite](../EjercicioTema2/NTlite2.png)
 
 #### 7. Explica el esquema de particiones predeterminado tras la instalación de Microsoft Windows del ejercicio 4. Para ello, ejecuta el 'Administrador de discos', detallando el contenido de cada partición
